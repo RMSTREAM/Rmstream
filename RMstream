@@ -41,8 +41,10 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd
 
 
 GTV
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/9/93/GTV_Logo_2021.png/revision/latest?cb=20230518051736" channel-number="5" group-title="LOAL CHANNEL", GTV
-https://ln.run/yY4Rp
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/9/93/GTV_Logo_2021.png/revision/latest?cb=20230518051736" channel-number="5" group-title="LOCAL CHANNEL", GTV
+https://wag.ika.lat/stream/872206966
+
+
 
 
 SARI SARI
