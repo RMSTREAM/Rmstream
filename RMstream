@@ -202,7 +202,7 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tvnmovie.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="--" channel-number="23" group-title="LOCAL CHANNEL", Kapamilya
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Kapamilya_Channel_Logo_2020.svg" channel-number="23" group-title="LOCAL CHANNEL", Kapamilya
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
