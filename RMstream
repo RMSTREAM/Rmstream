@@ -68,7 +68,7 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/oneph_sd.mpd
 
 
 UAAP
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/V0sxXci.png" channel-number="8" group-title="LOCAL CHANNEL", UAAP VARSETY
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/V0sxXci" channel-number="8" group-title="LOCAL CHANNEL", UAAP VARSETY
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
