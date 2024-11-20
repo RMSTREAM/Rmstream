@@ -379,8 +379,7 @@ http://115.146.176.131/play/5i_LtAbpY7PhHy5sbZlWo41V4XcHK5Lccd5m3a-e0MA/M3U8
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f40a52a3ac9b4702bdd5b735d910fd2f:5ce1bc7f06b494c276252b4d13c90e51
-https://cdn-ue1-prod.tsv2.amagi.tv/beacon?rp=https%3A%2F%2Fcdn-ue1-prod.tsv2.amagi.tv%2Flinear%2Famg01006-abs-cbn-myxnola-dash-abscbnono%2Ff855d795-7b59-49ed-bd5f-10a21f7c5f90%2Findex.mpd&streamId=amg01006-abs-cbn-myxnola-dash-abscbnono&sessionId=f855d795-7b59-49ed-bd5f-10a21f7c5f90
-
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-myxnola-dash-abscbnono/8e0e1e41-43d9-4868-a357-698e96bcf252/index.mpd
 
 
 
