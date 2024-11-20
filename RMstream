@@ -235,7 +235,7 @@ https://ln.run/7rN1n
 
 
 
-
+FASHION
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Zd5zm7C.png" channel-number="28" group-title="LOCAL CHANNEL", FASHION TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -245,17 +245,13 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_fashiontvhd.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="PTV" tvg-logo="https://ptni.gov.ph/cropped-ptv-logo-300x72-1-png/" channel-number="29" group-title="LOCAL CHANNEL", PTV
-https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/PTV.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="--" channel-number="--" group-title="LOCAL CHANNEL", UAAP VARSETY
+CNN
+#EXTINF:-1 tvg-id="" tvg-logo="http://115.146.176.131/images/2acf9495fde07739914e7a7bb3ffee94.png" channel-number="29" group-title="LOCAL CHANNEL", CNN PH
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=900c43f0e02742dd854148b7a75abbec:da315cca7f2902b4de23199718ed7e90
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_cnnhd.mpd
 
 
 
