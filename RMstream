@@ -225,12 +225,8 @@ https://wag.ika.lat/stream/872206966
 
 
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="--" channel-number="--" group-title="LOCAL CHANNEL", UAAP VARSETY
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/e5IZsv3.png" channel-number="26" group-title="local channel", CELESTIAL MOVIE PINOY
+http://103.152.216.26:8443/live/BsO7dGIl7sqM1I1tznWCVA/1730804702/200.m3u8
 
 
 
