@@ -50,7 +50,7 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_buko_sd.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://en.wikipedia.org/wiki/Sari-Sari_Channel#/media/File:Sari-Sari_Channel_logo.png" channel-number="6" group-title="LOCAL CHANNEL", Sari-Sari
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/ec/Sari-Sari_Channel_2D_Logo_2016.png/revision/latest?cb=20190317023940" channel-number="6" group-title="LOCAL CHANNEL", Sari-Sari
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -90,11 +90,11 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_buko_sd.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="71a130a851b9484bb47141c8966fb4a3:ad1f003b4f0b31b75ea4593844435600" channel-number="10" group-title="LOCAL CHANNEL", PTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://en.wikipedia.org/wiki/People%27s_Television_Network#/media/File:PTV_4_Para_Sa_Bayan_Logo_June_2017.svg" channel-number="10" group-title="LOCAL CHANNEL", PTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122
+#KODIPROP:inputstream.adaptive.license_key=https:71a130a851b9484bb47141c8966fb4a3:ad1f003b4f0b31b75ea4593844435600
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_ptv4_sd.mpd
 
 
