@@ -374,7 +374,7 @@ http://115.146.176.131/play/5i_LtAbpY7PhHy5sbZlWo41V4XcHK5Lccd5m3a-e0MA/M3U8
 
 ================== MYX ==================
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/MYX_new_logo.svg" channel-number="36" group-title="LOCAL CHANNEL", MYX
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/MYX_new_logo.svg/548px-MYX_new_logo.svg.png?20230913122654" channel-number="36" group-title="LOCAL CHANNEL", MYX
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
