@@ -265,11 +265,6 @@ https://ln.run/yY4Rp
 
 
 
-================== CELESTIAL MOVIE ==================
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/e5IZsv3.png" channel-number="26" group-title="local channel", CELESTIAL MOVIE PINOY
-http://103.152.216.26:8443/live/BsO7dGIl7sqM1I1tznWCVA/1730804702/200.m3u8
-
 
 
 
@@ -392,6 +387,31 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-myxnola-dash-abscbnon
 #KODIPROP:inputstream.adaptive.license_key=34ce95b60c424e169619816c5181aded:0e2a2117d705613542618f58bf26fc8e
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_bbcearth_hd1.mpd
 
+
+
+================== HEART OF ASIA ==================
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Heart_of_Asia_3D_Logo.png/revision/latest/scale-to-width-down/250?cb=20200713050134" channel-number="39" group-title="LOCAL CHANNEL", HEART OF ASIA
+https://ln.run/ABCD
+
+
+
+================== WWE NETWORK ==================
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a77021bb-a973-4a9b-8902-47e05787b08f/d8txzp1-3f32b570-9b7f-437d-ad29-2df8cdbf554c.png/v1/fill/w_707,h_668/wwe_network_logo_by_jjk100_d8txzp1-fullview.png" channel-number="40" group-title="LOCAL CHANNEL", WWE NETWORK
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
+https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="--" channel-number="--" group-title="LOCAL CHANNEL", UAAP VARSETY
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=
 
 
 
