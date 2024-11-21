@@ -264,6 +264,14 @@ https://ln.run/yY4Rp
 
 
 
+================== TRUE FM ==================
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://philippines.mom-gmr.org/uploads/tx_lfrogmom/media/1410-2446_import.png" channel-number="26" group-title="LOCAL CHANNEL", TRUE FM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0559c95496d44fadb94105b9176c3579:40d8bb2a46ffd03540e0c6210ece57ce
+https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/truefm_tv.mpd
 
 
 
@@ -389,16 +397,10 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_bbcearth_hd1.mpd
 
 
 
-================== HEART OF ASIA ==================
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Heart_of_Asia_3D_Logo.png/revision/latest/scale-to-width-down/250?cb=20200713050134" channel-number="39" group-title="LOCAL CHANNEL", HEART OF ASIA
-https://ln.run/ABCD
-
-
 
 ================== WWE NETWORK ==================
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a77021bb-a973-4a9b-8902-47e05787b08f/d8txzp1-3f32b570-9b7f-437d-ad29-2df8cdbf554c.png/v1/fill/w_707,h_668/wwe_network_logo_by_jjk100_d8txzp1-fullview.png" channel-number="40" group-title="LOCAL CHANNEL", WWE NETWORK
+#EXTINF:-1 tvg-id="" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a77021bb-a973-4a9b-8902-47e05787b08f/d8txzp1-3f32b570-9b7f-437d-ad29-2df8cdbf554c.png/v1/fill/w_707,h_668/wwe_network_logo_by_jjk100_d8txzp1-fullview.png" channel-number="38" group-title="LOCAL CHANNEL", WWE NETWORK
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
