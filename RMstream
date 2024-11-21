@@ -409,7 +409,34 @@ https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/m
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="--" channel-number="--" group-title="LOCAL CHANNEL", ANIMAX
+================== ANIMAL PLANET ==================
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" channel-number="39" group-title="LOCAL CHANNEL", ANIMAL PLANET
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=436b69f987924fcbbc06d40a69c2799a:c63d5b0d7e52335b61aeba4f6537d54d
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_animal_planet_sd.mpd
+
+
+
+================== DISCOVERY ==================
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/2016_Discovery_logo.svg" channel-number="41" group-title="LOCAL CHANNEL", DISCOVERY CHANNEL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9ac48f5131641a789328257e778ad3a:b6e67c37239901980c6e37e0607ceee6
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_discovery.mpd
+
+
+
+
+================== ANIMAX ==================
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="LOCAL CHANNEL", UAAP VARSETY
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -418,12 +445,29 @@ https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/m
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/2560px-Animax_logo.svg.png" channel-number="39" group-title="LOCAL CHANNEL", UAAP VARSETY
+
+================== ANIMAX ==================
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="LOCAL CHANNEL", UAAP VARSETY
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=92032b0e41a543fb9830751273b8debd:03f8b65e2af785b10d6634735dbe6c11
-https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_animax_sd.mpd
+#KODIPROP:inputstream.adaptive.license_key=
+
+
+
+
+
+================== ANIMAX ==================
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="LOCAL CHANNEL", UAAP VARSETY
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+
 
 
 
