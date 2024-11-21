@@ -423,7 +423,7 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_animal_planet_sd.mpd
 ================== DISCOVERY ==================
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Discovery_Channel_-_Logo_2019.svg" channel-number="40" group-title="LOCAL CHANNEL", DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/2016_Discovery_logo.svg" channel-number="40" group-title="LOCAL CHANNEL", DISCOVERY CHANNEL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -436,7 +436,7 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_discovery.mpd
 ================== HGTV ==================
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://en.wikipedia.org/wiki/HGTV#/media/File:HGTV_2010.svg" channel-number="41" group-title="LOCAL CHANNEL", HGTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos-world.net/wp-content/uploads/2023/07/HGTV-Logo.png" channel-number="41" group-title="LOCAL CHANNEL", HGTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -450,7 +450,7 @@ https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/hgtv_hd1.mpd
 ================== HISTORY ==================
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg" channel-number="42" group-title="LOCAL CHANNEL", HISTORY CHANNEL
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png" channel-number="42" group-title="LOCAL CHANNEL", HISTORY CHANNEL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
