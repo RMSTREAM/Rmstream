@@ -511,6 +511,29 @@ http://rambutan.whatbox.ca:1234/stream/restream/kapamilyachannel/stream.m3u8?uid
 http://rambutan.whatbox.ca:1234/stream/restream/alltv/stream.m3u8?uid=3598291941&u=cGhjb3JuZXI=&p=011906897aea8319785bf3e3ebbfc4950a207678a7bd6b3d446a9835b510e77b
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" channel-number="13" group-title="LOCAL CHANNEL",TEST 3
+http://5.223.45.65:18890/celestialmoviespinoy/miswa/manifest.mpd?token=230d2a1024374a6717e0b96b0c310503&user=admin&exp=1732290266
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="LOCAL CHANNEL", TE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+
+
+
+
+================== ANIMAX ==================
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="LOCAL CHANNEL", UAAP VARSETY
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=
 
 
 
