@@ -490,7 +490,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnon
 ================== MOONBUG KIDS ==================
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Moonbug_Kids.svg" channel-number="45" group-title="LOCAL CHANNEL", MOONBUG KIDS
+#EXTINF:-1 tvg-id="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/MoonbugKids.png" channel-number="45" group-title="LOCAL CHANNEL", MOONBUG KIDS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
