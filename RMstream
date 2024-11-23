@@ -501,9 +501,7 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_moonbug_kids_sd.mpd
 
 
 
-
 ================== WARNER TV ==================
-
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Warner_Channel.svg" channel-number="46" group-title="LOCAL CHANNEL", WARNER TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
