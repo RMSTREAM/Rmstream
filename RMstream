@@ -553,7 +553,7 @@ https://ln.run/PHCNN
 ================== INC ==================
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=https://philippines.mom-gmr.org/uploads/tx_lfrogmom/media/1020-167_import.png"" channel-number="52" group-title="LOCAL CHANNEL",INC 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://philippines.mom-gmr.org/uploads/tx_lfrogmom/media/1020-167_import.png" channel-number="52" group-title="LOCAL CHANNEL",INC 
 https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
 
 
