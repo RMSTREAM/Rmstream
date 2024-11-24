@@ -559,6 +559,25 @@ https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd651
 
 
 
+================== BOOMERANG ==================
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/L9jF0ln.png" channel-number="53" group-title="LOCAL CHANNEL",BOOMERANG
+http://apkandweb.ddns.net/6377635294/6663568605/665
+
+
+
+================== ONE SPORT+ ==================
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/One-Sports-Plus.jpg" channel-number="54" group-title="LOCAL CHANNEL", ONE SPORT+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
+
+
+
 
 ================== TEST ==================
 
@@ -569,14 +588,7 @@ http://rambutan.whatbox.ca:1234/stream/restream/kapamilyachannel/stream.m3u8?uid
 
 
 
-================== ONE SPORT+ ==================
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/One-Sports-Plus.jpg" channel-number="53" group-title="LOCAL CHANNEL", ONE SPORT+
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
-https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
 
 
 
