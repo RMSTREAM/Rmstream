@@ -596,9 +596,8 @@ https://cdn09jtedge.indihometv.com/joss/133/nba/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/NBA_TV_Philippines.png" channel-number="" group-title="LOCAL CHANNEL",NBA BACKUP2
-http://115.146.176.131:80/play/5i_LtAbpY7PhHy5sbZlWo4EDvaOXDkTskxk-MO00xMA/ts
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" channel-number="" group-title="LOCAL CHANNEL",TEST
+http://5.223.45.65:18890/celestialmoviespinoy/miswa/manifest.mpd?token=68d682877dbf6ff56a38513264f3ccb2&user=motolola&exp=1732461692
 
 
 
